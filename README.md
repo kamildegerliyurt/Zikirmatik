@@ -14,7 +14,10 @@
 
 
 
-<img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/013235d2-4d7e-4f03-818d-1c24241a44cf" width="200" height="400" />
+
+![zikir](https://github.com/kamildegerliyurt/Zikirmatik/assets/139812195/c2567974-e5c6-42a9-90fc-a5902993268d)
+
+
 
 <img src="https://github.com/kamildegerliyurt/FoodAppProject/assets/139812195/8f30b95f-30fd-4113-b489-7812b878fa6c" width="200" height="400" />
 
