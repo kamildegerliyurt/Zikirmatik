@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img width="400" height="400" src="https://github.com/kamildegerliyurt/Zikirmatik/assets/139812195/c2567974-e5c6-42a9-90fc-a5902993268d">
+  <img width="400" height="400" src="https://github.com/kamildegerliyurt/Zikirmatik/assets/139812195/b5dbce43-820e-4c97-9175-c4367c4ab555">
 </p>
 
 
